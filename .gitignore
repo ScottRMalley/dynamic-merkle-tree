@@ -12,3 +12,8 @@ node_modules
 # solidity-coverage files
 /coverage
 /coverage.json
+
+# IDE stuff
+.vscode
+.idea/
+*.iml
